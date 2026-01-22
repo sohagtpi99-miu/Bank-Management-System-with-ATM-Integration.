@@ -40,4 +40,4 @@ Additionally, the database setup is mandatory before execution. The provided SQL
 7. Exit account.
 ## Templates
 ### Bank User demo
-admin page.png
+[admin page.png](https://github.com/sohagtpi99-miu/Bank-Management-System-with-ATM-Integration./blob/main/admin%20page.png)
