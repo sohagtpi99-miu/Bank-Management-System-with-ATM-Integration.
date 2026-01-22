@@ -40,3 +40,4 @@ Additionally, the database setup is mandatory before execution. The provided SQL
 7. Exit account.
 ## Templates
 ### Bank User demo
+admin page.png
