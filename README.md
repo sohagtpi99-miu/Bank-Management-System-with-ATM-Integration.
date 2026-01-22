@@ -42,5 +42,6 @@ Additionally, the database setup is mandatory before execution. The provided SQL
 ### Bank User demo
 ![Admin Page](images/admin%20page.png)
 ### Loging Page
-[Login Page](images/loging%20page%20.png)
+![Account Page](images/account_page.png)
+
 
